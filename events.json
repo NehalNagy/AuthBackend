@@ -8,5 +8,11 @@
       "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "nehal.nagy@gmail.com",
+      "password": "$2a$12$Pnj4Vdmavu7ymxpVhKZpSezenAuuwCiKWPoXkrL33vn8fzsOWUCsi",
+      "id": "b220a633-e31e-4dda-830e-90dd76021f72"
+    }
+  ]
 }
